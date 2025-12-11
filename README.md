@@ -223,6 +223,7 @@ managed1 | SUCCESS => {
 ```bash
 ansible -i inventory.ini managed1 -m setup
 ```
+<img width="1024" height="642" alt="image" src="https://github.com/user-attachments/assets/63861260-ea86-4c89-88b4-4cf5ff667ccf" />
 
 Выведет всю информацию о системе управляемого хоста.
 
@@ -230,6 +231,7 @@ ansible -i inventory.ini managed1 -m setup
 ```bash
 ansible -i inventory.ini managed1 -m command -a "uname -a"
 ```
+<img width="1107" height="60" alt="image" src="https://github.com/user-attachments/assets/03cbbc65-87fe-4ec0-940d-d77359fb5901" />
 
 Ожидаемый вывод:
 ```
