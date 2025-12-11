@@ -83,7 +83,7 @@ ls -la ~/.ssh/ansible_key*
 chmod 600 ~/.ssh/ansible_key
 chmod 644 ~/.ssh/ansible_key.pub
 ```
-<img width="974" height="665" alt="image" src="https://github.com/user-attachments/assets/b0a1f524-e57f-49aa-b229-5db9b95a412e" />
+<img width="974" height="498" alt="image" src="https://github.com/user-attachments/assets/b593bbb8-434c-444b-b224-4a0da513a9f1" />
 
 ---
 
